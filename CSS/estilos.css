@@ -1,11 +1,11 @@
-/*div{
+div{
     width: 250px;
     height: 250px;
     background-color:blue;
 }
 p{
     color: orange;
-}*/
+}
 
 .caja{
     width: 150px;
@@ -33,11 +33,11 @@ p{
     height: 150px;
     background-color: green;
 }
-/*
+
 *{
     color: green;
     font-weight: bolder;
-}*/
+}
 
 a[title]{
     color: red;
@@ -50,14 +50,14 @@ button:hover{
 input:disabled{
     background-color: black;
 }
-/*
+
 p::first-line{
     color: green;
 }
 p::first-letter{
     color: red;
     font-size: 45px;
-}*/
+}
 .capibara1, .capibara2, .capibara3{
     width: 150px;
     height: 150px;
